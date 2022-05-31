@@ -1,0 +1,8 @@
+print("Bienvenido")
+edad=int(input("Por favor introduce tu edad: "))
+print("Tienes",edad*12,"meses de vida" )
+print("Tines", edad*52,"semanas de vida")
+print("Tienes", edad*365,"días de vida")
+print("Tines", edad*8766,"horas de vida")
+print("Tines", edad*525960,"minutos de vida")
+print("Tienes", edad*31536000,"segundos de vida")
